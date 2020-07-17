@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/genealogybank", {data:[{}],fetch:[],mutations:void 0});
