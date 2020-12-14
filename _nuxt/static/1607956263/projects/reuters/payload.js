@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/reuters", {data:[{}],fetch:[],mutations:[]});
